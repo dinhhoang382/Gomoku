@@ -1,2 +1,1 @@
-Game Gomoku
-NAME: Đinh Thế Hoàng
+Game Gomoku NAME: Đinh Thế Hoàng
